@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi, I am Florian Bauer
 
-<!--
-**fsrv-xyz/fsrv-xyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+_DevOps Enginner at [Hetzner Online](https://hetzner.com)_
 
-Here are some ideas to get you started:
+_Golang/Backend programming enthusiast_
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+_lover and builder of automated solutions_
+
+
+<span>
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fsrv-xyz&hide=Racket" />
+</span>
+<span>
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=fsrv-xyz&count_private=true&show_icons=true&hide_rank=false&hide_title=true" />
+</span>
