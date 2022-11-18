@@ -21,7 +21,7 @@ _lover and builder of automated solutions_
 
 ---
 
-<a href="https://github.com/enp0s10-GH/github-readme-stats"><img alt="enp0s10 Github Stats" src="https://github-readme-stats.vercel.app/api?username=fsrv-xyz&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&hide_title=true" /></a>
-<a href="https://github.com/Maddox3306/github-readme-stats"><img alt="Maddox Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fsrv-xyz&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&hide_title=true"/></a>
+<a href="https://github.com/Maddox3306/github-readme-stats"><img alt="fsrv-xyz Github Stats" src="https://github-readme-stats.vercel.app/api?username=fsrv-xyz&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&hide_title=true" /></a>
+<a href="https://github.com/Maddox3306/github-readme-stats"><img alt="fsrv-xyz Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fsrv-xyz&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&hide_title=true"/></a>
 
 <a href="https://github.com/fsrv-xyz/github-readme-activity-graph"><img alt="Maddox Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=fsrv-xyz&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true&hide_title=true" /></a>
