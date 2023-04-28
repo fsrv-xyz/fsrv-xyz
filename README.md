@@ -21,5 +21,6 @@ _lover and builder of automated solutions_
 
 ---
 
-<a href="https://github.com/Maddox3306/github-readme-stats"><img alt="fsrv-xyz Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fsrv-xyz&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&hide_title=true&include_all_commits=true"/></a>
+<a href="https://github.com/fsrv-xyz"><img alt="fsrv-xyz Top Languages" src="https://github-readme-streak-stats.herokuapp.com/?user=fsrv-xyz&theme=dark&hide_border=false"/></a>
+<a href="https://github.com/fsrv-xyz"><img alt="fsrv-xyz Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fsrv-xyz&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&hide_title=true&include_all_commits=true"/></a>
 <a href="https://github.com/fsrv-xyz/"><img alt="Maddox Activity Graph" src="https://github-readme-activity-graph.container.onl/graph?username=fsrv-xyz&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true&hide_title=true" /></a>
