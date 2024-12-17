@@ -1,6 +1,6 @@
 ### Hi, I am Florian Bauer
 
-_DevOps Enginner at [Hetzner Online](https://hetzner.com)_
+_IT System Professional at [CompuGroup Medical](https://cgm.com)_
 
 _Golang/Backend programming enthusiast_
 
